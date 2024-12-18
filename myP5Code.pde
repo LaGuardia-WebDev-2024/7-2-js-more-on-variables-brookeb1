@@ -27,8 +27,8 @@ void draw(){
   ellipse(x+50,y-50,10,10);
   ellipse(x-50,y-50,10,10);
   fill(255,0,0);
-  rect(158,96,100,40);//mouth
-
+  rect(x-42,y-4,100,40);//mouth
+x = mouseX
 }
 
 
